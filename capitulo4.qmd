@@ -1,0 +1,14 @@
+# Capítulo: Basic Statistics Using Python
+
+
+## Descriptive Statistics
+
+### Overview
+
+**Learning Objectives:**
+
+By the end of this section, you'll be able to...
+
+- Calculate descriptive statistics.
+- Identify and create appropriate graphs for given situations.
+- Practice cleaning a dataset.

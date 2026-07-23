@@ -1,0 +1,9 @@
+# Capítulo: Intro to Data Science with Python
+
+## Working with Data in Python
+
+### Reading and Writing Files with Open
+
+File handling is an essential aspect of programming, and Python provides built-in functions to interact with files. This guide will explore how to use Python's `open` function to read the text files ('.txt' files).
+
+There are two methods for opening the file using the file handling concept.

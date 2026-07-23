@@ -1,0 +1,27 @@
+# Bienvenida
+
+Este es el libro web creado con **Quarto**.  Se está preparando lecciones básicas para aprender grammar en inglés, alemán, frances e italiano 
+
+
+- [Unit1: Word forms and BE verb](capitulo1.qmd)
+  - [English - Be verb](capitulo1.qmd#english---be-verb)
+  - [German - SEIN](capitulo1.qmd#german---sein)
+
+- [Capítulo: Intro to Data Science with Python](capitulo2.qmd)
+  - [Working with Data in Python](capitulo2.qmd#working-with-data-in-python)
+ 
+
+- [Capítulo: SQL fundamentals](capitulo3.qmd)
+  - [Introduction to Databases and SQL](capitulo3.qmd#introduction-to-databases-and-sql)
+
+- [Capítulo: Basic Statistics Using Python](capitulo4.qmd)
+  - [Descriptive Statistics](capitulo4.qmd#descriptive-statistics)
+  
+- [Capítulo: Introduction to Probability](capitulo5.qmd)
+  - [Introduction to Probability](capitulo5.qmd#introduction-to-probability)
+
+
+- [Data Visualization and Cloud Technologies](capitulo6.qmd)
+
+- [Capítulo: Data Science with R](capitulo7.qmd)
+  - [Introduction to R](capitulo7.qmd#introduction-to-r)

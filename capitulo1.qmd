@@ -1,0 +1,155 @@
+# Unit1: Word forms and BE verb
+
+There are differtent kinds of words in a language. 
+
+**nouns**: A noun is a person, place or thing e.g. mother, teacher, baby, city, classroom, pen chair. There are diferent types of nouns
+
+- common nouns ---> For any person, place or thing e.g. student, city, street, cat
+- proper nouns ---> It's a specific name e.g. Mary, New York, Gran Vía.
+- pronouns  ---> Used to replace nouns I, You, He, She, It, We, You, They 
+
+**verbs**: A verb is an action word e.g. cook, drink, laugh, dance
+
+**adjectives**: An adjective is a word that describes a noun e.g. tall, hot, pink.
+
+## English - Be verb
+
+Be connects the subject to information about the subject. It isn't an action word.
+
+
+| Subject (Person) | Form of **to be** (+ / -) | Example |
+|------------------|---------------------------|---------|
+| I | **am** / **am not** | I am happy. (Estoy feliz.) |
+| you (informal/formal, singular) | **are** / **are not (aren't)** | You are nice. (Eres amable.) |
+| he | **is** / **is not (isn't)** | He is small. (Él es pequeño.) |
+| she | **is** / **is not (isn't)** | She is tired. (Ella está cansada.) |
+| it | **is** / **is not (isn't)** | It is cold. (Hace frío.) |
+| we | **are** / **are not (aren't)** | We are here. (Estamos aquí.) |
+| you (plural) | **are** / **are not (aren't)** | You are late. (Ustedes están retrasados.) |
+| they | **are** / **are not (aren't)** | They are loud. (Ellos son ruidosos.) |
+
+
+1. This is Jenifer
+
+2. She is five years old
+
+3. She has a brother
+
+4. He is seven years old
+
+5. What's your name? --> My name is Lucas
+
+6. I'm German. I'm from Berlin
+
+7. I'm a student
+
+8. My father is a Doctor and my mother is an engineer
+
+9. My favourite color is blue
+
+10. I'm interested in music
+
+11. I'm not tired
+
+12. He isn't here
+
+13. We aren't students
+
+14. I'm tired but I'm not hungry
+
+15. The weather is nice today
+
+16. Lucas is not at home, he is at work
+
+17. Ana and I are good friends
+
+18. It's ten o'clock. Your'e late again
+
+19. Pablo is not a teacher. He is a lawyer
+
+20. My hands are cold
+
+### Practice conversations
+
+**Conversation1: Meeting someone new**
+
+A: Good day! I am Ms. Keller. What is your name?
+B: Good day, Ms. Keller. I am Mr. Fischer.
+A: Are you from Germany?
+B: No, I am not from Germany. I am from Austria. And you?
+A: I am from Berlin.
+B: Nice to meet you!
+
+**Conversation 2 — Talking to a friend**
+
+A: Hello! How are you? Are you tired?
+B: Yes, I'm a little tired. And you?
+A: No, I'm not tired; I'm hungry!
+B: We're both at the café. The food here is good.
+A: Yes, you're right!
+
+**Conversation 3 — Describing family**
+
+A: Is that your brother?
+B: Yes, that's my brother. He is seventeen years old.
+A: And who is that?
+B: That's my sister. She is a university student.
+A: Are you from Munich?
+B: No, we are from Hamburg.
+
+## German - SEIN
+
+EINHEIT 1: bin / bist / ist / sind / seid / sind (Präsens von sein)
+
+| Subject (Person) | Form of **sein** (+ / −) | Example |
+|------------------|--------------------------|---------|
+| **ich** (I) | **bin** / **bin nicht** | **Ich bin glücklich.** *(I am happy.)* |
+| **du** (you – informal, singular) | **bist** / **bist nicht** | **Du bist nett.** *(You are nice.)* |
+| **er / sie / es** (he / she / it) | **ist** / **ist nicht** | **Er ist klein.** *(He is small.)* |
+| **wir** (we) | **sind** / **sind nicht** | **Wir sind hier.** *(We are here.)* |
+| **ihr** (you – informal, plural) | **seid** / **seid nicht** | **Ihr seid spät.** *(You are late.)* |
+| **sie** (they) | **sind** / **sind nicht** | **Sie sind laut.** *(They are loud.)* |
+| **Sie** (you – formal, singular/plural) | **sind** / **sind nicht** | **Sie sind willkommen.** *(You are welcome.)* |
+
+
+1. **Das ist Jennifer.** *(This is Jennifer.)*
+
+2. **Sie ist fünf Jahre alt.** *(She is five years old.)*
+
+3. **Sie hat einen Bruder.** *(She has a brother.)*
+
+4. **Er ist sieben Jahre alt.** *(He is seven years old.)*
+
+5. **Wie heißt du? – Ich heiße Lucas.** *(What's your name? – My name is Lucas.)*
+
+6. **Ich bin Deutscher. Ich komme aus Berlin.** *(I'm German. I'm from Berlin.)*  
+   > **Note:** If the speaker is female: **Ich bin Deutsche.**
+
+7. **Ich bin Student.** *(I'm a student.)*  
+   > **Note:** If the speaker is female: **Ich bin Studentin.**
+
+8. **Mein Vater ist Arzt und meine Mutter ist Ingenieurin.** *(My father is a doctor and my mother is an engineer.)*
+
+9. **Meine Lieblingsfarbe ist Blau.** *(My favourite color is blue.)*
+
+10. **Ich bin interessiert an Musik** *(I'm interested in music.)*
+
+11. **Ich bin nicht müde.** *(I'm not tired.)*
+
+12. **Er ist nicht hier.** *(He isn't here.)*
+
+13. **Wir sind keine Studenten.** *(We aren't students.)*
+
+14. **Ich bin müde, aber ich habe keinen Hunger.** *(I'm tired, but I'm not hungry.)*
+
+15. **Das Wetter ist heute schön.** *(The weather is nice today.)*
+
+16. **Lucas ist nicht zu Hause. Er ist bei der Arbeit.** *(Lucas is not at home. He is at work.)*
+
+17. **Ana und ich sind gute Freunde.** *(Ana and I are good friends.)*
+
+18. **Es ist zehn Uhr. Du bist schon wieder zu spät.** *(It's ten o'clock. You're late again.)*
+
+19. **Pablo ist kein Lehrer. Er ist Anwalt.** *(Pablo is not a teacher. He is a lawyer.)*
+
+20. **Meine Hände sind kalt.** *(My hands are cold.)*
