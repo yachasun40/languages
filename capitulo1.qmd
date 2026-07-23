@@ -28,6 +28,7 @@ Be connects the subject to information about the subject. It isn't an action wor
 | you (plural) | **are** / **are not (aren't)** | You are late. (Ustedes están retrasados.) |
 | they | **are** / **are not (aren't)** | They are loud. (Ellos son ruidosos.) |
 
+Tha main structure is ---> **subject + BE + adjective**
 
 1. This is Jenifer
 
