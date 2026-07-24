@@ -30,9 +30,9 @@ Be connects the subject to information about the subject. It isn't an action wor
 
 Tha main structure is ---> **subject + BE + adjective**
 
-1. This is Jenifer
+1. This is Jenifer *(Esta es Jenifer.)*
 
-2. She is five years old
+2. She is five years old 
 
 3. She has a brother
 
@@ -97,6 +97,50 @@ A: And who is that?
 B: That's my sister. She is a university student.
 A: Are you from Munich?
 B: No, we are from Hamburg.
+
+### Exercise – Choose the Correct Form of Verb
+
+**Instructions:** Choose the correct answer (**am**, **is**, or **are**) to complete each sentence.
+
+1. Apples [ am / is / **are** ] healthy. *(Las manzanas son saludables.)*
+
+2. Dogs [ am / is / **are** ] good pets. *(Los perros son buenas mascotas.)*
+
+3. Melissa [ am / **is** / are ] sick. *(Melissa está enferma.)*
+
+4. Alex [ am / **is** / are ] a helicopter pilot. *(Alex es piloto de helicóptero.)*
+
+5. The man [ am / **is** / are ] poor. *(El hombre es pobre.)*
+
+6. I [ **am** / is / are ] at school now. *(Ahora estoy en la escuela.)*
+
+7. We [ am / is / **are** ] happy today. *(Hoy estamos felices.)*
+
+8. Judy and Robert [ am / is / **are** ] police officers. *(Judy y Robert son policías.)*
+
+9. The cat [ am / **is** / are ] sleepy. *(El gato tiene sueño.)*
+
+10. She [ am / **is** / are ] at home. *(Ella está en casa.)*
+
+11. The tigers [ am / is / **are** ] hungry. *(Los tigres tienen hambre.)*
+
+12. I [ **am** / is / are ] from Canada. *(Soy de Canadá.)*
+
+13. Those men [ am / is / **are** ] bus drivers. *(Esos hombres son conductores de autobús.)*
+
+14. Those shoes [ am / is / **are** ] from Brazil. *(Esos zapatos son de Brasil.)*
+
+15. We [ am / is / **are** ] at the bank. *(Estamos en el banco.)*
+
+16. The piano [ am / **is** / are ] heavy. *(El piano es pesado.)*
+
+17. That hamburger [ am / **is** / are ] American. *(Esa hamburguesa es estadounidense.)*
+
+18. You [ am / is / **are** ] an artist. *(Eres un artista.)*
+
+19. The red cabinet [ am / **is** / are ] from China. *(El gabinete rojo es de China.)*
+
+20. You [ am / is / **are** ] good students. *(Ustedes son buenos estudiantes.)*
 
 ## German - SEIN
 
@@ -198,6 +242,49 @@ EINHEIT 1: bin / bist / ist / sind / seid / sind (Präsens von sein)
 
 - B: Nein, wir sind aus Hamburg. (B: No, we are from Hamburg.)
 
+### Übung – Wähle die richtige Form von SEIN (Ejercicio – Elige la forma correcta del verbo "to be")
+
+**Anleitung:** Wähle die richtige Antwort (**bin**, **ist** oder **sind**), um jeden Satz zu vervollständigen.
+
+1. Äpfel [ bin / ist / **sind** ] gesund. *(Apples are healthy.)*
+
+2. Hunde [ bin / ist / **sind** ] gute Haustiere. *(Dogs are good pets.)*
+
+3. Melissa [ bin / **ist** / sind ] krank. *(Melissa is sick.)*
+
+4. Alex [ bin / **ist** / sind ] Hubschrauberpilot. *(Alex is a helicopter pilot.)*
+
+5. Der Mann [ bin / **ist** / sind ] arm. *(The man is poor.)*
+
+6. Ich [ **bin** / ist / sind ] jetzt in der Schule. *(I am at school now.)*
+
+7. Wir [ bin / ist / **sind** ] heute glücklich. *(We are happy today.)*
+
+8. Judy und Robert [ bin / ist / **sind** ] Polizisten. *(Judy and Robert are police officers.)*
+
+9. Die Katze [ bin / **ist** / sind ] schläfrig. *(The cat is sleepy.)*
+
+10. Sie [ bin / **ist** / sind ] zu Hause. *(She is at home.)*
+
+11. Die Tiger [ bin / ist / **sind** ] hungrig. *(The tigers are hungry.)*
+
+12. Ich [ **bin** / ist / sind ] aus Kanada. *(I am from Canada.)*
+
+13. Diese Männer [ bin / ist / **sind** ] Busfahrer. *(Those men are bus drivers.)*
+
+14. Diese Schuhe [ bin / ist / **sind** ] aus Brasilien. *(Those shoes are from Brazil.)*
+
+15. Wir [ bin / ist / **sind** ] in der Bank. *(We are at the bank.)*
+
+16. Das Klavier [ bin / **ist** / sind ] schwer. *(The piano is heavy.)*
+
+17. Dieser Hamburger [ bin / **ist** / sind ] amerikanisch. *(That hamburger is American.)*
+
+18. Du [ bin / **bist** / sind ] Künstler. *(You are an artist.)*
+
+19. Der rote Schrank [ bin / **ist** / sind ] aus China. *(The red cabinet is from China.)*
+
+20. Ihr [ bin / ist / **seid** ] gute Schüler. *(You are good students.)*
 
 ## French - Présent de être
 
@@ -319,6 +406,52 @@ UNITÉ 1 : suis / es / est / sommes / êtes / sont (Basic Sentences with **être
 **B:** Non, nous sommes de Hambourg.  
 *(No, we are from Hamburg.)*
 
+
+### Exercice – Choisissez la bonne forme du verbe être
+
+**Instructions :** Choisissez la bonne réponse (**suis**, **est** ou **sont**) pour compléter correctement chaque phrase.
+
+1. Les pommes [ suis / est / **sont** ] bonnes pour la santé. *(Apples are healthy.)*
+
+2. Les chiens [ suis / est / **sont** ] de bons animaux de compagnie. *(Dogs are good pets.)*
+
+3. Melissa [ suis / **est** / sont ] malade. *(Melissa is sick.)*
+
+4. Alex [ suis / **est** / sont ] pilote d'hélicoptère. *(Alex is a helicopter pilot.)*
+
+5. L'homme [ suis / **est** / sont ] pauvre. *(The man is poor.)*
+
+6. Je [ **suis** / est / sont ] à l'école maintenant. *(I am at school now.)*
+
+7. Nous [ suis / est / **sommes** ] heureux aujourd'hui. *(We are happy today.)*
+
+8. Judy et Robert [ suis / est / **sont** ] policiers. *(Judy and Robert are police officers.)*
+
+9. Le chat [ suis / **est** / sont ] fatigué. *(The cat is sleepy.)*
+
+10. Elle [ suis / **est** / sont ] à la maison. *(She is at home.)*
+
+11. Les tigres [ suis / est / **sont** ] affamés. *(The tigers are hungry.)*
+
+12. Je [ **suis** / est / sont ] du Canada. *(I am from Canada.)*
+
+13. Ces hommes [ suis / est / **sont** ] chauffeurs de bus. *(Those men are bus drivers.)*
+
+14. Ces chaussures [ suis / est / **sont** ] du Brésil. *(Those shoes are from Brazil.)*
+
+15. Nous [ suis / est / **sommes** ] à la banque. *(We are at the bank.)*
+
+16. Le piano [ suis / **est** / sont ] lourd. *(The piano is heavy.)*
+
+17. Ce hamburger [ suis / **est** / sont ] américain. *(That hamburger is American.)*
+
+18. Tu [ suis / **es** / sont ] artiste. *(You are an artist.)*
+
+19. L'armoire rouge [ suis / **est** / sont ] de Chine. *(The red cabinet is from China.)*
+
+20. Vous [ suis / est / **êtes** ] de bons étudiants. *(You are good students.)*
+
+
 ## Italian - Presente di essere
 
 UNITÀ 1: sono / sei / è / siamo / siete / sono (Basic Sentences with **essere** (to be))
@@ -437,3 +570,47 @@ UNITÀ 1: sono / sei / è / siamo / siete / sono (Basic Sentences with **essere*
 
 **B:** No, siamo di Amburgo.  
 *(No, we are from Hamburg.)*
+
+### Esercizio – Scegli la forma corretta del verbo **essere**
+
+**Istruzioni:** Scegli la risposta corretta (**sono**, **è** o **sono**) per completare correttamente ogni frase.
+
+1. Le mele [ sono / è / **sono** ] sane. *(Apples are healthy.)*
+
+2. I cani [ sono / è / **sono** ] buoni animali domestici. *(Dogs are good pets.)*
+
+3. Melissa [ sono / **è** / sono ] malata. *(Melissa is sick.)*
+
+4. Alex [ sono / **è** / sono ] pilota di elicottero. *(Alex is a helicopter pilot.)*
+
+5. L'uomo [ sono / **è** / sono ] povero. *(The man is poor.)*
+
+6. Io [ **sono** / è / sono ] a scuola adesso. *(I am at school now.)*
+
+7. Noi [ sono / è / **siamo** ] felici oggi. *(We are happy today.)*
+
+8. Judy e Robert [ sono / è / **sono** ] poliziotti. *(Judy and Robert are police officers.)*
+
+9. Il gatto [ sono / **è** / sono ] assonnato. *(The cat is sleepy.)*
+
+10. Lei [ sono / **è** / sono ] a casa. *(She is at home.)*
+
+11. Le tigri [ sono / è / **sono** ] affamate. *(The tigers are hungry.)*
+
+12. Io [ **sono** / è / sono ] del Canada. *(I am from Canada.)*
+
+13. Quegli uomini [ sono / è / **sono** ] autisti di autobus. *(Those men are bus drivers.)*
+
+14. Quelle scarpe [ sono / è / **sono** ] del Brasile. *(Those shoes are from Brazil.)*
+
+15. Noi [ sono / è / **siamo** ] in banca. *(We are at the bank.)*
+
+16. Il pianoforte [ sono / **è** / sono ] pesante. *(The piano is heavy.)*
+
+17. Quell'hamburger [ sono / **è** / sono ] americano. *(That hamburger is American.)*
+
+18. Tu [ sono / **sei** / sono ] un artista. *(You are an artist.)*
+
+19. L'armadio rosso [ sono / **è** / sono ] della Cina. *(The red cabinet is from China.)*
+
+20. Voi [ sono / è / **siete** ] bravi studenti. *(You are good students.)*
