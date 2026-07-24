@@ -75,72 +75,86 @@ Tha main structure is ---> **subject + BE + adjective**
 **Conversation1: Meeting someone new**
 
 A: Good day! I am Ms. Keller. What is your name?
+
 B: Good day, Ms. Keller. I am Mr. Fischer.
+
 A: Are you from Germany?
+
 B: No, I am not from Germany. I am from Austria. And you?
+
 A: I am from Berlin.
+
 B: Nice to meet you!
 
 **Conversation 2 — Talking to a friend**
 
 A: Hello! How are you? Are you tired?
+
 B: Yes, I'm a little tired. And you?
+
 A: No, I'm not tired; I'm hungry!
+
 B: We're both at the café. The food here is good.
+
 A: Yes, you're right!
 
 **Conversation 3 — Describing family**
 
 A: Is that your brother?
+
 B: Yes, that's my brother. He is seventeen years old.
+
 A: And who is that?
+
 B: That's my sister. She is a university student.
+
 A: Are you from Munich?
+
 B: No, we are from Hamburg.
 
 ### Exercise – Choose the Correct Form of Verb
 
 **Instructions:** Choose the correct answer (**am**, **is**, or **are**) to complete each sentence.
 
-1. Apples [ am / is / **are** ] healthy. *(Las manzanas son saludables.)*
+1. Apples .... healthy [ am / is / **are** ]. *(Las manzanas son saludables.)*
 
-2. Dogs [ am / is / **are** ] good pets. *(Los perros son buenas mascotas.)*
+2. Dogs .... good pets [ am / is / **are** ]. *(Los perros son buenas mascotas.)*
 
-3. Melissa [ am / **is** / are ] sick. *(Melissa está enferma.)*
+3. Melissa .... sick [ am / **is** / are ]. *(Melissa está enferma.)*
 
-4. Alex [ am / **is** / are ] a helicopter pilot. *(Alex es piloto de helicóptero.)*
+4. Alex .... a helicopter pilot [ am / **is** / are ]. *(Alex es piloto de helicóptero.)*
 
-5. The man [ am / **is** / are ] poor. *(El hombre es pobre.)*
+5. The man .... poor [ am / **is** / are ]. *(El hombre es pobre.)*
 
-6. I [ **am** / is / are ] at school now. *(Ahora estoy en la escuela.)*
+6. I .... at school now [ **am** / is / are ]. *(Ahora estoy en la escuela.)*
 
-7. We [ am / is / **are** ] happy today. *(Hoy estamos felices.)*
+7. We .... happy today [ am / is / **are** ]. *(Hoy estamos felices.)*
 
-8. Judy and Robert [ am / is / **are** ] police officers. *(Judy y Robert son policías.)*
+8. Judy and Robert .... police officers [ am / is / **are** ]. *(Judy y Robert son policías.)*
 
-9. The cat [ am / **is** / are ] sleepy. *(El gato tiene sueño.)*
+9. The cat .... sleepy [ am / **is** / are ]. *(El gato tiene sueño.)*
 
-10. She [ am / **is** / are ] at home. *(Ella está en casa.)*
+10. She .... at home [ am / **is** / are ]. *(Ella está en casa.)*
 
-11. The tigers [ am / is / **are** ] hungry. *(Los tigres tienen hambre.)*
+11. The tigers .... hungry [ am / is / **are** ]. *(Los tigres tienen hambre.)*
 
-12. I [ **am** / is / are ] from Canada. *(Soy de Canadá.)*
+12. I .... from Canada [ **am** / is / are ]. *(Soy de Canadá.)*
 
-13. Those men [ am / is / **are** ] bus drivers. *(Esos hombres son conductores de autobús.)*
+13. Those men .... bus drivers [ am / is / **are** ]. *(Esos hombres son conductores de autobús.)*
 
-14. Those shoes [ am / is / **are** ] from Brazil. *(Esos zapatos son de Brasil.)*
+14. Those shoes .... from Brazil [ am / is / **are** ]. *(Esos zapatos son de Brasil.)*
 
-15. We [ am / is / **are** ] at the bank. *(Estamos en el banco.)*
+15. We .... at the bank [ am / is / **are** ]. *(Estamos en el banco.)*
 
-16. The piano [ am / **is** / are ] heavy. *(El piano es pesado.)*
+16. The piano .... heavy [ am / **is** / are ]. *(El piano es pesado.)*
 
-17. That hamburger [ am / **is** / are ] American. *(Esa hamburguesa es estadounidense.)*
+17. That hamburger .... American [ am / **is** / are ]. *(Esa hamburguesa es estadounidense.)*
 
-18. You [ am / is / **are** ] an artist. *(Eres un artista.)*
+18. You .... an artist [ am / is / **are** ]. *(Eres un artista.)*
 
-19. The red cabinet [ am / **is** / are ] from China. *(El gabinete rojo es de China.)*
+19. The red cabinet .... from China [ am / **is** / are ]. *(El gabinete rojo es de China.)*
 
-20. You [ am / is / **are** ] good students. *(Ustedes son buenos estudiantes.)*
+20. You .... good students [ am / is / **are** ]. *(Ustedes son buenos estudiantes.)*
 
 ## German - SEIN
 
@@ -246,45 +260,45 @@ EINHEIT 1: bin / bist / ist / sind / seid / sind (Präsens von sein)
 
 **Anleitung:** Wähle die richtige Antwort (**bin**, **ist** oder **sind**), um jeden Satz zu vervollständigen.
 
-1. Äpfel [ bin / ist / **sind** ] gesund. *(Apples are healthy.)*
+1. Äpfel .... gesund [ bin / ist / **sind** ]. *(Apples are healthy.)*
 
-2. Hunde [ bin / ist / **sind** ] gute Haustiere. *(Dogs are good pets.)*
+2. Hunde .... gute Haustiere [ bin / ist / **sind** ]. *(Dogs are good pets.)*
 
-3. Melissa [ bin / **ist** / sind ] krank. *(Melissa is sick.)*
+3. Melissa .... krank [ bin / **ist** / sind ]. *(Melissa is sick.)*
 
-4. Alex [ bin / **ist** / sind ] Hubschrauberpilot. *(Alex is a helicopter pilot.)*
+4. Alex .... Hubschrauberpilot [ bin / **ist** / sind ]. *(Alex is a helicopter pilot.)*
 
-5. Der Mann [ bin / **ist** / sind ] arm. *(The man is poor.)*
+5. Der Mann .... arm [ bin / **ist** / sind ]. *(The man is poor.)*
 
-6. Ich [ **bin** / ist / sind ] jetzt in der Schule. *(I am at school now.)*
+6. Ich .... jetzt in der Schule [ **bin** / ist / sind ]. *(I am at school now.)*
 
-7. Wir [ bin / ist / **sind** ] heute glücklich. *(We are happy today.)*
+7. Wir .... heute glücklich [ bin / ist / **sind** ]. *(We are happy today.)*
 
-8. Judy und Robert [ bin / ist / **sind** ] Polizisten. *(Judy and Robert are police officers.)*
+8. Judy und Robert .... Polizisten [ bin / ist / **sind** ]. *(Judy and Robert are police officers.)*
 
-9. Die Katze [ bin / **ist** / sind ] schläfrig. *(The cat is sleepy.)*
+9. Die Katze .... schläfrig [ bin / **ist** / sind ]. *(The cat is sleepy.)*
 
-10. Sie [ bin / **ist** / sind ] zu Hause. *(She is at home.)*
+10. Sie .... zu Hause [ bin / **ist** / sind ]. *(She is at home.)*
 
-11. Die Tiger [ bin / ist / **sind** ] hungrig. *(The tigers are hungry.)*
+11. Die Tiger .... hungrig [ bin / ist / **sind** ]. *(The tigers are hungry.)*
 
-12. Ich [ **bin** / ist / sind ] aus Kanada. *(I am from Canada.)*
+12. Ich .... aus Kanada [ **bin** / ist / sind ]. *(I am from Canada.)*
 
-13. Diese Männer [ bin / ist / **sind** ] Busfahrer. *(Those men are bus drivers.)*
+13. Diese Männer .... Busfahrer [ bin / ist / **sind** ]. *(Those men are bus drivers.)*
 
-14. Diese Schuhe [ bin / ist / **sind** ] aus Brasilien. *(Those shoes are from Brazil.)*
+14. Diese Schuhe .... aus Brasilien [ bin / ist / **sind** ]. *(Those shoes are from Brazil.)*
 
-15. Wir [ bin / ist / **sind** ] in der Bank. *(We are at the bank.)*
+15. Wir .... in der Bank [ bin / ist / **sind** ]. *(We are at the bank.)*
 
-16. Das Klavier [ bin / **ist** / sind ] schwer. *(The piano is heavy.)*
+16. Das Klavier .... schwer [ bin / **ist** / sind ]. *(The piano is heavy.)*
 
-17. Dieser Hamburger [ bin / **ist** / sind ] amerikanisch. *(That hamburger is American.)*
+17. Dieser Hamburger .... amerikanisch [ bin / **ist** / sind ]. *(That hamburger is American.)*
 
-18. Du [ bin / **bist** / sind ] Künstler. *(You are an artist.)*
+18. Du .... Künstler [ bin / **bist** / sind ]. *(You are an artist.)*
 
-19. Der rote Schrank [ bin / **ist** / sind ] aus China. *(The red cabinet is from China.)*
+19. Der rote Schrank .... aus China [ bin / **ist** / sind ]. *(The red cabinet is from China.)*
 
-20. Ihr [ bin / ist / **seid** ] gute Schüler. *(You are good students.)*
+20. Ihr .... gute Schüler [ bin / ist / **seid** ]. *(You are good students.)*
 
 ## French - Présent de être
 
@@ -411,45 +425,45 @@ UNITÉ 1 : suis / es / est / sommes / êtes / sont (Basic Sentences with **être
 
 **Instructions :** Choisissez la bonne réponse (**suis**, **est** ou **sont**) pour compléter correctement chaque phrase.
 
-1. Les pommes [ suis / est / **sont** ] bonnes pour la santé. *(Apples are healthy.)*
+1. Les pommes .... bonnes pour la santé [ suis / est / **sont** ]. *(Apples are healthy.)*
 
-2. Les chiens [ suis / est / **sont** ] de bons animaux de compagnie. *(Dogs are good pets.)*
+2. Les chiens .... de bons animaux de compagnie [ suis / est / **sont** ]. *(Dogs are good pets.)*
 
-3. Melissa [ suis / **est** / sont ] malade. *(Melissa is sick.)*
+3. Melissa .... malade [ suis / **est** / sont ]. *(Melissa is sick.)*
 
-4. Alex [ suis / **est** / sont ] pilote d'hélicoptère. *(Alex is a helicopter pilot.)*
+4. Alex .... pilote d'hélicoptère [ suis / **est** / sont ]. *(Alex is a helicopter pilot.)*
 
-5. L'homme [ suis / **est** / sont ] pauvre. *(The man is poor.)*
+5. L'homme .... pauvre [ suis / **est** / sont ]. *(The man is poor.)*
 
-6. Je [ **suis** / est / sont ] à l'école maintenant. *(I am at school now.)*
+6. Je .... à l'école maintenant [ **suis** / est / sont ]. *(I am at school now.)*
 
-7. Nous [ suis / est / **sommes** ] heureux aujourd'hui. *(We are happy today.)*
+7. Nous .... heureux aujourd'hui [ suis / est / **sommes** ]. *(We are happy today.)*
 
-8. Judy et Robert [ suis / est / **sont** ] policiers. *(Judy and Robert are police officers.)*
+8. Judy et Robert .... policiers [ suis / est / **sont** ]. *(Judy and Robert are police officers.)*
 
-9. Le chat [ suis / **est** / sont ] fatigué. *(The cat is sleepy.)*
+9. Le chat .... fatigué [ suis / **est** / sont ]. *(The cat is sleepy.)*
 
-10. Elle [ suis / **est** / sont ] à la maison. *(She is at home.)*
+10. Elle .... à la maison [ suis / **est** / sont ]. *(She is at home.)*
 
-11. Les tigres [ suis / est / **sont** ] affamés. *(The tigers are hungry.)*
+11. Les tigres .... affamés [ suis / est / **sont** ]. *(The tigers are hungry.)*
 
-12. Je [ **suis** / est / sont ] du Canada. *(I am from Canada.)*
+12. Je .... du Canada [ **suis** / est / sont ]. *(I am from Canada.)*
 
-13. Ces hommes [ suis / est / **sont** ] chauffeurs de bus. *(Those men are bus drivers.)*
+13. Ces hommes .... chauffeurs de bus [ suis / est / **sont** ]. *(Those men are bus drivers.)*
 
-14. Ces chaussures [ suis / est / **sont** ] du Brésil. *(Those shoes are from Brazil.)*
+14. Ces chaussures .... du Brésil [ suis / est / **sont** ]. *(Those shoes are from Brazil.)*
 
-15. Nous [ suis / est / **sommes** ] à la banque. *(We are at the bank.)*
+15. Nous .... à la banque [ suis / est / **sommes** ]. *(We are at the bank.)*
 
-16. Le piano [ suis / **est** / sont ] lourd. *(The piano is heavy.)*
+16. Le piano .... lourd [ suis / **est** / sont ]. *(The piano is heavy.)*
 
-17. Ce hamburger [ suis / **est** / sont ] américain. *(That hamburger is American.)*
+17. Ce hamburger .... américain [ suis / **est** / sont ]. *(That hamburger is American.)*
 
-18. Tu [ suis / **es** / sont ] artiste. *(You are an artist.)*
+18. Tu .... artiste [ suis / **es** / sont ]. *(You are an artist.)*
 
-19. L'armoire rouge [ suis / **est** / sont ] de Chine. *(The red cabinet is from China.)*
+19. L'armoire rouge .... de Chine [ suis / **est** / sont ]. *(The red cabinet is from China.)*
 
-20. Vous [ suis / est / **êtes** ] de bons étudiants. *(You are good students.)*
+20. Vous .... de bons étudiants [ suis / est / **êtes** ]. *(You are good students.)*
 
 
 ## Italian - Presente di essere
@@ -575,42 +589,42 @@ UNITÀ 1: sono / sei / è / siamo / siete / sono (Basic Sentences with **essere*
 
 **Istruzioni:** Scegli la risposta corretta (**sono**, **è** o **sono**) per completare correttamente ogni frase.
 
-1. Le mele [ sono / è / **sono** ] sane. *(Apples are healthy.)*
+1. Le mele .... sane [ sono / è / **sono** ]. *(Apples are healthy.)*
 
-2. I cani [ sono / è / **sono** ] buoni animali domestici. *(Dogs are good pets.)*
+2. I cani .... buoni animali domestici [ sono / è / **sono** ]. *(Dogs are good pets.)*
 
-3. Melissa [ sono / **è** / sono ] malata. *(Melissa is sick.)*
+3. Melissa .... malata [ sono / **è** / sono ]. *(Melissa is sick.)*
 
-4. Alex [ sono / **è** / sono ] pilota di elicottero. *(Alex is a helicopter pilot.)*
+4. Alex .... pilota di elicottero [ sono / **è** / sono ]. *(Alex is a helicopter pilot.)*
 
-5. L'uomo [ sono / **è** / sono ] povero. *(The man is poor.)*
+5. L'uomo .... povero [ sono / **è** / sono ]. *(The man is poor.)*
 
-6. Io [ **sono** / è / sono ] a scuola adesso. *(I am at school now.)*
+6. Io .... a scuola adesso [ **sono** / è / sono ]. *(I am at school now.)*
 
-7. Noi [ sono / è / **siamo** ] felici oggi. *(We are happy today.)*
+7. Noi .... felici oggi [ sono / è / **siamo** ]. *(We are happy today.)*
 
-8. Judy e Robert [ sono / è / **sono** ] poliziotti. *(Judy and Robert are police officers.)*
+8. Judy e Robert .... poliziotti [ sono / è / **sono** ]. *(Judy and Robert are police officers.)*
 
-9. Il gatto [ sono / **è** / sono ] assonnato. *(The cat is sleepy.)*
+9. Il gatto .... assonnato [ sono / **è** / sono ]. *(The cat is sleepy.)*
 
-10. Lei [ sono / **è** / sono ] a casa. *(She is at home.)*
+10. Lei .... a casa [ sono / **è** / sono ]. *(She is at home.)*
 
-11. Le tigri [ sono / è / **sono** ] affamate. *(The tigers are hungry.)*
+11. Le tigri .... affamate [ sono / è / **sono** ]. *(The tigers are hungry.)*
 
-12. Io [ **sono** / è / sono ] del Canada. *(I am from Canada.)*
+12. Io .... del Canada [ **sono** / è / sono ]. *(I am from Canada.)*
 
-13. Quegli uomini [ sono / è / **sono** ] autisti di autobus. *(Those men are bus drivers.)*
+13. Quegli uomini .... autisti di autobus [ sono / è / **sono** ]. *(Those men are bus drivers.)*
 
-14. Quelle scarpe [ sono / è / **sono** ] del Brasile. *(Those shoes are from Brazil.)*
+14. Quelle scarpe .... del Brasile [ sono / è / **sono** ]. *(Those shoes are from Brazil.)*
 
-15. Noi [ sono / è / **siamo** ] in banca. *(We are at the bank.)*
+15. Noi .... in banca [ sono / è / **siamo** ]. *(We are at the bank.)*
 
-16. Il pianoforte [ sono / **è** / sono ] pesante. *(The piano is heavy.)*
+16. Il pianoforte .... pesante [ sono / **è** / sono ]. *(The piano is heavy.)*
 
-17. Quell'hamburger [ sono / **è** / sono ] americano. *(That hamburger is American.)*
+17. Quell'hamburger .... americano [ sono / **è** / sono ]. *(That hamburger is American.)*
 
-18. Tu [ sono / **sei** / sono ] un artista. *(You are an artist.)*
+18. Tu .... un artista [ sono / **sei** / sono ]. *(You are an artist.)*
 
-19. L'armadio rosso [ sono / **è** / sono ] della Cina. *(The red cabinet is from China.)*
+19. L'armadio rosso .... della Cina [ sono / **è** / sono ]. *(The red cabinet is from China.)*
 
-20. Voi [ sono / è / **siete** ] bravi studenti. *(You are good students.)*
+20. Voi .... bravi studenti [ sono / è / **siete** ]. *(You are good students.)*
