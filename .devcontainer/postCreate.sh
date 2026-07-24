@@ -2,82 +2,38 @@
 
 set -e
 
-echo "====================================="
-echo "Installing Quarto"
-echo "====================================="
-
 QUARTO_VERSION="1.10.15"
 
-wget https://github.com/quarto-dev/quarto-cli/releases/download/v${QUARTO_VERSION}/quarto-${QUARTO_VERSION}-linux-amd64.deb
+echo "====================================="
+echo "Installing Quarto ${QUARTO_VERSION}"
+echo "====================================="
+
+# Comprueba si ya está instalada la versión correcta
+if command -v quarto >/dev/null 2>&1; then
+    INSTALLED_VERSION=$(quarto --version)
+
+    if [ "$INSTALLED_VERSION" = "$QUARTO_VERSION" ]; then
+        echo "Quarto ${QUARTO_VERSION} is already installed."
+        exit 0
+    fi
+fi
+
+cd /tmp
+
+wget -q https://github.com/quarto-dev/quarto-cli/releases/download/v${QUARTO_VERSION}/quarto-${QUARTO_VERSION}-linux-amd64.deb
 
 sudo dpkg -i quarto-${QUARTO_VERSION}-linux-amd64.deb
 
-rm quarto-${QUARTO_VERSION}-linux-amd64.deb
+rm -f quarto-${QUARTO_VERSION}-linux-amd64.deb
 
+echo
 echo "====================================="
-echo "Installing Julia"
-echo "====================================="
-
-curl -fsSL https://install.julialang.org | sh -s -- --yes
-
-export PATH="$HOME/.juliaup/bin:$PATH"
-
-echo 'export PATH="$HOME/.juliaup/bin:$PATH"' >> ~/.bashrc
-
-source ~/.bashrc
-
-echo "====================================="
-echo "Installing Python packages"
-echo "====================================="
-
-pip install --upgrade pip
-
-pip install \
-    jupyter \
-    jupyterlab \
-    notebook \
-    numpy \
-    scipy \
-    pandas \
-    matplotlib \
-    seaborn \
-    scikit-learn \
-    plotly \
-    polars \
-    pyarrow \
-    duckdb
-
-echo "====================================="
-echo "Installing Julia packages"
-echo "====================================="
-
-~/.juliaup/bin/julia <<EOF
-using Pkg
-
-Pkg.add([
-    "IJulia",
-    "DataFrames",
-    "CSV",
-    "Plots",
-    "Statistics",
-    "Distributions",
-    "GLM",
-    "DataFramesMeta",
-    "DuckDB"
-])
-
-EOF
-
-echo "====================================="
-echo "Checking installations"
+echo "Quarto installation completed"
 echo "====================================="
 
 quarto --version
 
-python --version
-
-~/.juliaup/bin/julia --version
-
 quarto check
 
+echo
 echo "Environment ready!"
