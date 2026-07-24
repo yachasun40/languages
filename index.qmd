@@ -6,6 +6,8 @@ Este es el libro web creado con **Quarto**.  Se está preparando lecciones bási
 - [Unit1: Word forms and BE verb](capitulo1.qmd)
   - [English - Be verb](capitulo1.qmd#english---be-verb)
   - [German - SEIN](capitulo1.qmd#german---sein)
+  - [French - Présent de être](capitulo1.qmd#french---présent-de-être)
+  - [Italian - Presente di essere](capitulo1.qmd#italian---presente-di-essere)
 
 - [Capítulo: Intro to Data Science with Python](capitulo2.qmd)
   - [Working with Data in Python](capitulo2.qmd#working-with-data-in-python)

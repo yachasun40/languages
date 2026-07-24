@@ -157,7 +157,7 @@ EINHEIT 1: bin / bist / ist / sind / seid / sind (Präsens von sein)
 
 ### Practice conversations
 
-**Conversation 1 — Meeting someone new (formal, using Sie)**
+#### Conversation 1 — Meeting someone new (formal, using Sie)
 
 - A: Guten Tag! Ich bin Frau Keller. Wie ist Ihr Name?  (A: Good day! I am Ms. Keller. What is your name?)
 
@@ -172,7 +172,7 @@ EINHEIT 1: bin / bist / ist / sind / seid / sind (Präsens von sein)
 - B: Schön, Sie kennenzulernen! (B: Nice to meet you!)
 
 
-**Conversation 2 — Talking to a friend (informal, using du)**
+#### Conversation 2 — Talking to a friend (informal, using du)
 
 - A: Hallo! Wie geht's? Bist du müde?  (A: Hello! How are you? Are you tired?)
 
@@ -184,7 +184,7 @@ EINHEIT 1: bin / bist / ist / sind / seid / sind (Präsens von sein)
 
 - A: Ja, du hast recht! (A: Yes, you're right!)
 
-**Conversation 3 — Describing family (mixed practice)**
+#### Conversation 3 — Describing family (mixed practice)
 
 - A: Ist das dein Bruder? (A: Is that your brother?)
 
@@ -197,3 +197,243 @@ EINHEIT 1: bin / bist / ist / sind / seid / sind (Präsens von sein)
 - A: Seid ihr aus München? (A: Are you from Munich?)
 
 - B: Nein, wir sind aus Hamburg. (B: No, we are from Hamburg.)
+
+
+## French - Présent de être
+
+UNITÉ 1 : suis / es / est / sommes / êtes / sont (Basic Sentences with **être** (to be))
+
+| Subject (Person) | Form of **être** (+ / −) | Example |
+|------------------|--------------------------|---------|
+| **je** (I) | **suis** / **ne suis pas** | **Je suis heureux.** *(I am happy.)* |
+| **tu** (you – informal, singular) | **es** / **n'es pas** | **Tu es gentil.** *(You are nice.)* |
+| **il / elle / on** (he / she / it / one) | **est** / **n'est pas** | **Il est petit.** *(He is small.)* |
+| **nous** (we) | **sommes** / **ne sommes pas** | **Nous sommes ici.** *(We are here.)* |
+| **vous** (you – informal/formal, plural; formal, singular) | **êtes** / **n'êtes pas** | **Vous êtes en retard.** *(You are late.)* |
+| **ils / elles** (they) | **sont** / **ne sont pas** | **Ils sont bruyants.** *(They are loud.)* |
+| **vous** (you – formal, singular/plural) | **êtes** / **n'êtes pas** | **Vous êtes les bienvenus.** *(You are welcome.)* |
+
+
+1. **Voici Jennifer.** *(This is Jennifer.)*
+
+2. **Elle a cinq ans.** *(She is five years old.)*
+
+3. **Elle a un frère.** *(She has a brother.)*
+
+4. **Il a sept ans.** *(He is seven years old.)*
+
+5. **Quel est ton nom? – Mon nom est Lucas.** *(What's your name? – My name is Lucas.)*
+
+6. **Je suis allemand(e). Je viens de Berlin.** *(I'm German. I'm from Berlin.)*
+
+7. **Je suis étudiant(e).** *(I'm a student.)*
+
+8. **Mon père est médecin et ma mère est ingénieure.** *(My father is a doctor and my mother is an engineer.)*
+
+9. **Ma couleur préférée est le bleu.** *(My favourite color is blue.)*
+
+10. **Je suis intéresse par la musique.** *(I'm interested in music.)*
+
+11. **Je ne suis pas fatigué(e).** *(I'm not tired.)*
+
+12. **Il n'est pas ici.** *(He isn't here.)*
+
+13. **Nous ne sommes pas étudiants.** *(We aren't students.)*
+
+14. **Je suis fatigué(e), mais je n'ai pas faim.** *(I'm tired, but I'm not hungry.)*
+
+15. **Le temps est beau aujourd'hui.** *(The weather is nice today.)*
+
+16. **Lucas n'est pas à la maison. Il est au travail.** *(Lucas is not at home. He is at work.)*
+
+17. **Ana et moi sommes de bons amis.** *(Ana and I are good friends.)*
+
+18. **Il est dix heures. Tu es encore en retard.** *(It's ten o'clock. You're late again.)*
+
+19. **Pablo n'est pas professeur. Il est avocat.** *(Pablo is not a teacher. He is a lawyer.)*
+
+20. **J'ai les mains froides.** *(My hands are cold.)*
+
+---
+
+### Practice Conversations
+
+#### Conversation 1 – Meeting Someone New
+
+**A:** Bonjour ! Je suis Madame Keller. Comment vous appelez-vous ?  
+*(Good day! I am Ms. Keller. What is your name?)*
+
+**B:** Bonjour, Madame Keller. Je suis Monsieur Fischer.  
+*(Good day, Ms. Keller. I am Mr. Fischer.)*
+
+**A:** Vous êtes d'Allemagne ?  
+*(Are you from Germany?)*
+
+**B:** Non, je ne suis pas d'Allemagne. Je suis d'Autriche. Et vous ?  
+*(No, I am not from Germany. I am from Austria. And you?)*
+
+**A:** Je suis de Berlin.  
+*(I am from Berlin.)*
+
+**B:** Enchanté(e) de faire votre connaissance !  
+*(Nice to meet you!)*
+
+---
+
+#### Conversation 2 – Talking to a Friend
+
+**A:** Salut ! Comment ça va ? Tu es fatigué(e) ?  
+*(Hello! How are you? Are you tired?)*
+
+**B:** Oui, je suis un peu fatigué(e). Et toi ?  
+*(Yes, I'm a little tired. And you?)*
+
+**A:** Non, je ne suis pas fatigué(e) ; j'ai faim !  
+*(No, I'm not tired; I'm hungry!)*
+
+**B:** Nous sommes tous les deux au café. La nourriture est bonne ici.  
+*(We're both at the café. The food here is good.)*
+
+**A:** Oui, tu as raison !  
+*(Yes, you're right!)*
+
+---
+
+#### Conversation 3 – Describing Family
+
+**A:** C'est ton frère ?  
+*(Is that your brother?)*
+
+**B:** Oui, c'est mon frère. Il a dix-sept ans.  
+*(Yes, that's my brother. He is seventeen years old.)*
+
+**A:** Et qui est-ce ?  
+*(And who is that?)*
+
+**B:** C'est ma sœur. Elle est étudiante à l'université.  
+*(That's my sister. She is a university student.)*
+
+**A:** Vous êtes de Munich ?  
+*(Are you from Munich?)*
+
+**B:** Non, nous sommes de Hambourg.  
+*(No, we are from Hamburg.)*
+
+## Italian - Presente di essere
+
+UNITÀ 1: sono / sei / è / siamo / siete / sono (Basic Sentences with **essere** (to be))
+
+| Soggetto (Persona) | Forma di **essere** (+ / −) | Esempio |
+|--------------------|-----------------------------|----------|
+| **io** (I) | **sono** / **non sono** | **Io sono felice.** *(I am happy.)* |
+| **tu** (you – informal, singular) | **sei** / **non sei** | **Tu sei gentile.** *(You are nice.)* |
+| **lui / lei** (he / she) | **è** / **non è** | **Lui è piccolo.** *(He is small.)* |
+| **noi** (we) | **siamo** / **non siamo** | **Noi siamo qui.** *(We are here.)* |
+| **voi** (you – informal, plural) | **siete** / **non siete** | **Voi siete in ritardo.** *(You are late.)* |
+| **loro** (they) | **sono** / **non sono** | **Loro sono rumorosi.** *(They are loud.)* |
+| **Lei** (you – formal, singular) | **è** / **non è** | **Lei è il benvenuto / la benvenuta.** *(You are welcome.)* |
+
+1. **Questa è Jennifer.** *(This is Jennifer.)*
+
+2. **Lei ha cinque anni.** *(She is five years old.)*
+
+3. **Lei ha un fratello.** *(She has a brother.)*
+
+4. **Lui ha sette anni.** *(He is seven years old.)*
+
+5. **Come ti chiami? – Mi chiamo Lucas.** *(What's your name? – My name is Lucas.)*
+
+6. **Sono tedesco/tedesca. Vengo da Berlino.** *(I'm German. I'm from Berlin.)*
+
+7. **Sono uno studente / una studentessa.** *(I'm a student.)*
+
+8. **Mio padre è medico e mia madre è ingegnera.** *(My father is a doctor and my mother is an engineer.)*
+
+9. **Il mio colore preferito è il blu.** *(My favourite color is blue.)*
+
+10. **Mi interessa la musica.** *(I'm interested in music.)*
+
+11. **Non sono stanco/stanca.** *(I'm not tired.)*
+
+12. **Lui non è qui.** *(He isn't here.)*
+
+13. **Noi non siamo studenti.** *(We aren't students.)*
+
+14. **Sono stanco/stanca, ma non ho fame.** *(I'm tired, but I'm not hungry.)*
+
+15. **Oggi il tempo è bello.** *(The weather is nice today.)*
+
+16. **Lucas non è a casa. È al lavoro.** *(Lucas is not at home. He is at work.)*
+
+17. **Ana e io siamo buoni amici.** *(Ana and I are good friends.)*
+
+18. **Sono le dieci. Sei di nuovo in ritardo.** *(It's ten o'clock. You're late again.)*
+
+19. **Pablo non è un insegnante. È un avvocato.** *(Pablo is not a teacher. He is a lawyer.)*
+
+20. **Le mie mani sono fredde.** *(My hands are cold.)*
+
+---
+
+### Practice Conversations
+
+#### Conversation 1 – Meeting Someone New
+
+**A:** Buongiorno! Sono la signora Keller. Come si chiama?  
+*(Good day! I am Ms. Keller. What is your name?)*
+
+**B:** Buongiorno, signora Keller. Sono il signor Fischer.  
+*(Good day, Ms. Keller. I am Mr. Fischer.)*
+
+**A:** È della Germania?  
+*(Are you from Germany?)*
+
+**B:** No, non sono della Germania. Sono dell'Austria. E Lei?  
+*(No, I am not from Germany. I am from Austria. And you?)*
+
+**A:** Vengo da Berlino.  
+*(I am from Berlin.)*
+
+**B:** Piacere di conoscerLa!  
+*(Nice to meet you!)*
+
+---
+
+#### Conversation 2 – Talking to a Friend
+
+**A:** Ciao! Come stai? Sei stanco/stanca?  
+*(Hello! How are you? Are you tired?)*
+
+**B:** Sì, sono un po' stanco/stanca. E tu?  
+*(Yes, I'm a little tired. And you?)*
+
+**A:** No, non sono stanco/stanca; ho fame!  
+*(No, I'm not tired; I'm hungry!)*
+
+**B:** Siamo tutti e due al bar. Il cibo qui è buono.  
+*(We're both at the café. The food here is good.)*
+
+**A:** Sì, hai ragione!  
+*(Yes, you're right!)*
+
+---
+
+#### Conversation 3 – Describing Family
+
+**A:** È tuo fratello?  
+*(Is that your brother?)*
+
+**B:** Sì, è mio fratello. Ha diciassette anni.  
+*(Yes, that's my brother. He is seventeen years old.)*
+
+**A:** E chi è quella?  
+*(And who is that?)*
+
+**B:** È mia sorella. È una studentessa universitaria.  
+*(That's my sister. She is a university student.)*
+
+**A:** Siete di Monaco?  
+*(Are you from Munich?)*
+
+**B:** No, siamo di Amburgo.  
+*(No, we are from Hamburg.)*
